@@ -68,7 +68,7 @@ Things that I do on daily basis
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-swart-iota.vercel.app/api?username=sam253narula&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-swart-iota.vercel.app/api?username=samarthatlan&show_icons=true&hide_border=true" />
 
   
   
