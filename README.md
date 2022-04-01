@@ -77,8 +77,8 @@ Things that I do on daily basis
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-swart-iota.vercel.app/api/top-langs/?username=sam253narula&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats-swart-iota.vercel.app/api?username=sam253narula&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-swart-iota.vercel.app/api/top-langs/?username=samarthatlan&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-swart-iota.vercel.app/api?username=samarthatlan&hide=html&layout=compact&theme=buefy"/></td>
     </tr>   
   </table>
 </center>
